@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Context menu</string>
+    <string name="mark_edit_text_hint">Введите оценку</string>
+    <string name="color_quality">Цветовое качество</string>
+    <string name="exit_from_app">Выход из приложения</string>
+    <string name="random_number">Случайное число</string>
+</resources>
